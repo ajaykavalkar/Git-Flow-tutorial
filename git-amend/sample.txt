@@ -2,3 +2,5 @@ This is sample text message for git amend cmd
 this is again change 
 I change this file and amend using git commit --amend --no-edit
 
+code changes again
+
